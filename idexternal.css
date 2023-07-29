@@ -1,0 +1,104 @@
+
+.external
+{
+	background: blue;
+	font-size: 50px;
+	font-family: cursive;
+	color: orange;
+	border: 2px dashed;
+}
+#sun
+{
+	background: yellow;
+	font-family: cursive;
+	font-size: 50px;
+} 
+#sum
+{
+	background: yellow;
+	font-family: cursive;
+	font-size: 50px;
+}
+#moon
+{
+	background:black;
+	font-family: serif;
+	font-size: 50px;
+	color: white;
+	border: 5px dashed;
+}
+
+h1
+{
+	background: skyblue;
+	color: yellow;
+	font-family: serif;
+	font-size: 50px;
+}
+p1,p2
+{
+	background:blue;
+	color: white;
+	font-size: 50px;
+	font-family:cursive;
+	border: 2px dotted;
+}
+*
+{
+	font-family: cursive;
+	margin: 0px;
+	padding: 0px;
+}
+input[type]
+{
+	color: red;
+	font-size: 50px;
+}
+input[type="text"]
+{
+	color:blue;
+}
+input[type="number"]
+{
+	color:red;
+}
+input[type="password"]
+{
+	color:yellow;
+}
+input[type="email"]
+{
+	color:brown;
+}
+a[href]
+{
+	background:black;
+	color: yellow;
+	font-family: cursive;
+	font-size: 20px;
+
+}
+img[src]
+{
+	border: 2px dashed;
+}
+
+a:link
+{
+	color: greenyellow;
+}
+a:hover
+{
+	color: red;
+	font-family: cursive;
+	font-size: 50px;
+}
+a:active{
+	color: yellow;
+}
+div:hover
+{
+	background: black;
+	height: 200px;
+	width: 200px;
+}
